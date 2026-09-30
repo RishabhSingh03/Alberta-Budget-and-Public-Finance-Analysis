@@ -5,13 +5,13 @@
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 This repository hosts an interactive analysis of Alberta’s provincial budget (2018–2023). Using Power BI (with DAX calculations) and supplementary Excel workbooks, the project tracks spending, deficits, and debt trends to assess the sustainability of public finances and develop data-driven recommendations.
 
 ---
 
-## 📊 Key Features
+## Key Features
 
 - **Time-Series Budget Tracking**  
   – Visualize annual spending, revenue, deficits, and debt levels (2018–2023).  
